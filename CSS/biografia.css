@@ -1,0 +1,48 @@
+.biografia {
+}
+body { background-color:#CC0000;
+margin:0px; 
+padding:0px; 
+}
+
+#general{
+position:absolute;
+top: ;
+	left:408px;
+	width:960px;
+	height:1403px;
+	background-color:#FFFFFF;
+	top: 14px;
+}
+
+#titulo{position:absolute;
+width:869px;
+height: 44px;
+background-color:#000000;
+left: 47px;
+top: 14px;
+}
+
+#biografia{position:absolute;
+background-color:#FF3300;
+width: 580px;
+height: 1259px;
+left: 291px;
+top: 88px;
+}
+
+#texto{position:absolute;
+			background-color:#FFFFFF;
+width: 505px;
+height: 1208px;
+left: 329px;
+top: 106px;
+}
+
+#carrusel {position:absolute;
+background-color:#666666;
+width:276px;
+height:1261px;
+left:-1px;
+top:88px;
+}

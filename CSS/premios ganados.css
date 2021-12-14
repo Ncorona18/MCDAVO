@@ -1,0 +1,40 @@
+premios ganados {
+}
+body { background-color:#CC0000;
+margin:0px; 
+padding:0px; 
+}
+
+#general{
+position:absolute;
+top: ;
+	left:494px;
+	width:960px;
+	height:1403px;
+	background-color:#FFFFFF;
+	top: 20px;
+}
+
+#titulo{position:absolute;
+width:869px;
+height: 44px;
+background-color:#000000;
+left: 47px;
+top: 14px;
+}
+
+#biografia{position:absolute;
+background-color:#FF3300;
+width: 854px;
+height: 1259px;
+left: 54px;
+top: 88px;
+}
+
+#texto{position:absolute;
+			background-color:#FFFFFF;
+width: 783px;
+height: 1179px;
+left: 85px;
+top: 122px;
+}
